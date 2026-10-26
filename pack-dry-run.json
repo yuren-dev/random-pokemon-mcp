@@ -1,0 +1,56 @@
+[
+  {
+    "id": "random-pokemon-mcp@0.1.0",
+    "name": "random-pokemon-mcp",
+    "version": "0.1.0",
+    "size": 54422,
+    "unpackedSize": 662843,
+    "shasum": "91376e493eeacb102633a0b6748c78988690bb0a",
+    "integrity": "sha512-YuX1rVyRyTVTK2PQESX2XnKzCsefPsCo+3c4IHYGbiDR3XY0jpIpUIre54SYtGC8SFOE/pVGL9Jkt8hEVfwoFA==",
+    "filename": "random-pokemon-mcp-0.1.0.tgz",
+    "files": [
+      {
+        "path": "LICENSE",
+        "size": 1065,
+        "mode": 416
+      },
+      {
+        "path": "README.md",
+        "size": 5561,
+        "mode": 416
+      },
+      {
+        "path": "data/pokemon.json",
+        "size": 642333,
+        "mode": 416
+      },
+      {
+        "path": "data/source-sha256.json",
+        "size": 279,
+        "mode": 416
+      },
+      {
+        "path": "dist/index.js",
+        "size": 8995,
+        "mode": 488
+      },
+      {
+        "path": "dist/type-chart.js",
+        "size": 3375,
+        "mode": 416
+      },
+      {
+        "path": "package.json",
+        "size": 730,
+        "mode": 416
+      },
+      {
+        "path": "server.json",
+        "size": 505,
+        "mode": 416
+      }
+    ],
+    "entryCount": 8,
+    "bundled": []
+  }
+]
