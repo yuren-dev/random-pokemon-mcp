@@ -1,13 +1,13 @@
 [
   {
-    "id": "random-pokemon-mcp@0.1.0",
+    "id": "random-pokemon-mcp@0.2.0",
     "name": "random-pokemon-mcp",
-    "version": "0.1.0",
-    "size": 54422,
-    "unpackedSize": 662843,
-    "shasum": "91376e493eeacb102633a0b6748c78988690bb0a",
-    "integrity": "sha512-YuX1rVyRyTVTK2PQESX2XnKzCsefPsCo+3c4IHYGbiDR3XY0jpIpUIre54SYtGC8SFOE/pVGL9Jkt8hEVfwoFA==",
-    "filename": "random-pokemon-mcp-0.1.0.tgz",
+    "version": "0.2.0",
+    "size": 186285,
+    "unpackedSize": 1196861,
+    "shasum": "be3cdff1e8ed3590d163caa4e03facf521917893",
+    "integrity": "sha512-EjCdb7UczYyD/BWb7U5n6+yWORx2ro3fGzzQplt4Dhv80G2yrI5HJ1L/TI6ikbTchn9qYlrRNr5j5U+fyww/NA==",
+    "filename": "random-pokemon-mcp-0.2.0.tgz",
     "files": [
       {
         "path": "LICENSE",
@@ -16,7 +16,17 @@
       },
       {
         "path": "README.md",
-        "size": 5561,
+        "size": 7339,
+        "mode": 416
+      },
+      {
+        "path": "data/pokeapi-sha256.json",
+        "size": 236146,
+        "mode": 416
+      },
+      {
+        "path": "data/pokeapi.json",
+        "size": 295650,
         "mode": 416
       },
       {
@@ -31,7 +41,7 @@
       },
       {
         "path": "dist/index.js",
-        "size": 8995,
+        "size": 9439,
         "mode": 488
       },
       {
@@ -50,7 +60,7 @@
         "mode": 416
       }
     ],
-    "entryCount": 8,
+    "entryCount": 10,
     "bundled": []
   }
 ]
