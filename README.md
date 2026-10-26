@@ -7,7 +7,7 @@ Offline TypeScript MCP server using `@modelcontextprotocol/sdk` and stdio. Node.
 ## 两种使用方式，让用户自己选
 
 - **本地版（stdio）**：使用下方 `npx -y random-pokemon-mcp@0.2.0` 安装配置；数据随包离线提供，无需 API 密钥。
-- **托管版（网站 Worker）**：支持远程 MCP 的客户端可使用 `https://random-pokemon-generator.org/api/mcp`，无需本地安装。托管服务独立开发、部署与更新，功能和数据版本可能与本地版不同。**托管版即将上线，部署完成后可用。**
+- **托管版（网站 Worker）**：支持远程 MCP 的客户端可使用 `https://random-pokemon-generator.org/api/mcp`，无需本地安装。托管服务独立开发、部署与更新，功能和数据版本可能与本地版不同。
 
 ## Install and configure
 
