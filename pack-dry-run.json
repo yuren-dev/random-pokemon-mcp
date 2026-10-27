@@ -1,13 +1,13 @@
 [
   {
-    "id": "random-pokemon-mcp@0.2.0",
+    "id": "random-pokemon-mcp@0.3.0",
     "name": "random-pokemon-mcp",
-    "version": "0.2.0",
-    "size": 186285,
-    "unpackedSize": 1196861,
-    "shasum": "be3cdff1e8ed3590d163caa4e03facf521917893",
-    "integrity": "sha512-EjCdb7UczYyD/BWb7U5n6+yWORx2ro3fGzzQplt4Dhv80G2yrI5HJ1L/TI6ikbTchn9qYlrRNr5j5U+fyww/NA==",
-    "filename": "random-pokemon-mcp-0.2.0.tgz",
+    "version": "0.3.0",
+    "size": 192344,
+    "unpackedSize": 1211779,
+    "shasum": "ccf03b8dfe457150bd6595cb34eadc6504f1aa72",
+    "integrity": "sha512-77hU+7MTf4bq/ROafCC9BhZFtKfrSx6fV2K8D+dD6KWDinvlT42aV3lh6xVlytHD4yzXBoQ4qIRfQYVIt+M9wQ==",
+    "filename": "random-pokemon-mcp-0.3.0.tgz",
     "files": [
       {
         "path": "LICENSE",
@@ -16,7 +16,7 @@
       },
       {
         "path": "README.md",
-        "size": 7339,
+        "size": 13493,
         "mode": 416
       },
       {
@@ -40,8 +40,13 @@
         "mode": 416
       },
       {
+        "path": "dist/damage.js",
+        "size": 9593,
+        "mode": 416
+      },
+      {
         "path": "dist/index.js",
-        "size": 9439,
+        "size": 8577,
         "mode": 488
       },
       {
@@ -51,7 +56,7 @@
       },
       {
         "path": "package.json",
-        "size": 730,
+        "size": 763,
         "mode": 416
       },
       {
@@ -60,7 +65,7 @@
         "mode": 416
       }
     ],
-    "entryCount": 10,
+    "entryCount": 11,
     "bundled": []
   }
 ]

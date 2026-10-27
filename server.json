@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.yuren-dev/random-pokemon-mcp",
   "description": "Offline Pokémon lookup, type matchups, seeded teams and simplified team/damage analysis.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "repository": {"url": "https://github.com/yuren-dev/random-pokemon-mcp", "source": "github"},
-  "packages": [{"registryType": "npm", "identifier": "random-pokemon-mcp", "version": "0.2.0", "transport": {"type": "stdio"}}]
+  "packages": [{"registryType": "npm", "identifier": "random-pokemon-mcp", "version": "0.3.0", "transport": {"type": "stdio"}}]
 }
